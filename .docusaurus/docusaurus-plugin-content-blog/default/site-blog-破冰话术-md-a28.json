@@ -1,0 +1,22 @@
+{
+  "permalink": "/破冰话术",
+  "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/破冰话术.md",
+  "source": "@site/blog/破冰话术.md",
+  "title": "破冰话术",
+  "description": "喵~",
+  "date": "2023-08-01T13:07:11.000Z",
+  "formattedDate": "2023年8月1日",
+  "tags": [],
+  "readingTime": 0.13333333333333333,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {},
+  "prevItem": {
+    "title": "暧昧",
+    "permalink": "/暧昧"
+  },
+  "nextItem": {
+    "title": "Docusaurus-Theme-Zen",
+    "permalink": "/first-blog"
+  }
+}

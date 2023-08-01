@@ -1,5 +1,5 @@
 {
-  "permalink": "/docusaurus-theme-zen/first-blog",
+  "permalink": "/first-blog",
   "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/first-blog.md",
   "source": "@site/blog/first-blog.md",
   "title": "Docusaurus-Theme-Zen",
@@ -9,11 +9,11 @@
   "tags": [
     {
       "label": "docusaurus-theme-zen",
-      "permalink": "/docusaurus-theme-zen/tags/docusaurus-theme-zen"
+      "permalink": "/tags/docusaurus-theme-zen"
     },
     {
       "label": "lifestyle",
-      "permalink": "/docusaurus-theme-zen/tags/lifestyle"
+      "permalink": "/tags/lifestyle"
     }
   ],
   "readingTime": 2.033333333333333,
@@ -36,5 +36,9 @@
       "lifestyle"
     ],
     "authors": "RiverMountain"
+  },
+  "prevItem": {
+    "title": "破冰话术",
+    "permalink": "/破冰话术"
   }
 }

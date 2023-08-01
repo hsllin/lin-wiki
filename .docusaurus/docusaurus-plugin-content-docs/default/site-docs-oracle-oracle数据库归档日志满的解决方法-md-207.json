@@ -1,0 +1,14 @@
+{
+  "unversionedId": "oracle/Oracle数据库归档日志满的解决方法",
+  "id": "oracle/Oracle数据库归档日志满的解决方法",
+  "title": "Oracle数据库归档日志满的解决方法",
+  "description": "早上收到学校现场同同事发来的消息，说考勤页面打开报错 ，重启过好几次不生效。",
+  "source": "@site/docs/oracle/Oracle数据库归档日志满的解决方法.md",
+  "sourceDirName": "oracle",
+  "slug": "/oracle/Oracle数据库归档日志满的解决方法",
+  "permalink": "/docs/oracle/Oracle数据库归档日志满的解决方法",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

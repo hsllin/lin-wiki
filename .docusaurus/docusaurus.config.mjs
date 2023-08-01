@@ -4,14 +4,14 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "docusaurus-theme-zen",
+  "title": "林的wiki",
   "titleDelimiter": "-",
-  "url": "https://wrm244.github.io",
-  "baseUrl": "/docusaurus-theme-zen/",
+  "url": "https://www.huangsongdi.top",
+  "baseUrl": "/",
   "favicon": "/assets/images/social/avatar.ico",
   "organizationName": "",
-  "projectName": "docusaurus-theme-zen",
-  "tagline": "docusaurus的一款美观便捷主题",
+  "projectName": "wiki",
+  "tagline": "林的wiki",
   "onBrokenLinks": "ignore",
   "themeConfig": {
     "image": "/assets/images/social/avatar.png",
@@ -373,6 +373,12 @@ export default {
           "to": "project"
         },
         {
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
+          "label": "文档"
+        },
+        {
           "type": "localeDropdown",
           "position": "right",
           "dropdownItemsBefore": [],
@@ -406,6 +412,15 @@ export default {
             {
               "label": "项目",
               "to": "project"
+            }
+          ]
+        },
+        {
+          "title": "Docs",
+          "items": [
+            {
+              "label": "文档",
+              "to": "/docs"
             }
           ]
         },

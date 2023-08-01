@@ -1,0 +1,14 @@
+{
+  "unversionedId": "obisian折腾/linux部署couchdb数据库",
+  "id": "obisian折腾/linux部署couchdb数据库",
+  "title": "linux部署couchdb数据库",
+  "description": "1.安装docker环境",
+  "source": "@site/docs/obisian折腾/linux部署couchdb数据库.md",
+  "sourceDirName": "obisian折腾",
+  "slug": "/obisian折腾/linux部署couchdb数据库",
+  "permalink": "/docs/obisian折腾/linux部署couchdb数据库",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

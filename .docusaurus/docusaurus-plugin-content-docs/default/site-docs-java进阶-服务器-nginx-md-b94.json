@@ -1,0 +1,14 @@
+{
+  "unversionedId": "java进阶/服务器/nginx",
+  "id": "java进阶/服务器/nginx",
+  "title": "nginx",
+  "description": "引用自# Nginx 常用配置汇总！从入门到干活足矣",
+  "source": "@site/docs/java进阶/服务器/nginx.md",
+  "sourceDirName": "java进阶/服务器",
+  "slug": "/java进阶/服务器/nginx",
+  "permalink": "/docs/java进阶/服务器/nginx",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

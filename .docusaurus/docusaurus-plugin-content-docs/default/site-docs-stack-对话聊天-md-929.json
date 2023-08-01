@@ -1,0 +1,14 @@
+{
+  "unversionedId": "stack/对话聊天",
+  "id": "stack/对话聊天",
+  "title": "对话聊天",
+  "description": "男：有没有人跟你说过，你的眼睛很特别？",
+  "source": "@site/docs/stack/对话聊天.md",
+  "sourceDirName": "stack",
+  "slug": "/stack/对话聊天",
+  "permalink": "/docs/stack/对话聊天",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

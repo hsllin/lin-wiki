@@ -1,0 +1,14 @@
+{
+  "unversionedId": "读书笔记/一键流量转发拯救你的垃圾VPS",
+  "id": "读书笔记/一键流量转发拯救你的垃圾VPS",
+  "title": "一键流量转发拯救你的垃圾VPS",
+  "description": "很多时候我们使用了便宜的主机，但这种主机相应速度实在感人，这里就要用到中转来恢复我们主机的速度。不过也有朋友会觉着这个方法不划算太折腾，还不如直接买个CN2 GIA。确实！我也觉得哈哈?",
+  "source": "@site/docs/读书笔记/一键流量转发拯救你的垃圾VPS.md",
+  "sourceDirName": "读书笔记",
+  "slug": "/读书笔记/一键流量转发拯救你的垃圾VPS",
+  "permalink": "/docs/读书笔记/一键流量转发拯救你的垃圾VPS",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "java进阶/spring/常用注解",
+  "id": "java进阶/spring/常用注解",
+  "title": "常用注解",
+  "description": "@Validated",
+  "source": "@site/docs/java进阶/spring/常用注解.md",
+  "sourceDirName": "java进阶/spring",
+  "slug": "/java进阶/spring/常用注解",
+  "permalink": "/docs/java进阶/spring/常用注解",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

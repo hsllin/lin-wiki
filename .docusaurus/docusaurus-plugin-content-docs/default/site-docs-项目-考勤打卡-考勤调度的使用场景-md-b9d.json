@@ -1,0 +1,25 @@
+{
+  "unversionedId": "项目/考勤打卡/考勤调度的使用场景",
+  "id": "项目/考勤打卡/考勤调度的使用场景",
+  "title": "考勤调度的使用场景",
+  "description": "考勤调度的使用场景",
+  "source": "@site/docs/项目/考勤打卡/考勤调度的使用场景.md",
+  "sourceDirName": "项目/考勤打卡",
+  "slug": "/项目/考勤打卡/考勤调度的使用场景",
+  "permalink": "/docs/项目/考勤打卡/考勤调度的使用场景",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "gists": [
+      {
+        "id": "883babbb622fb0d5095fd90a3ce4b862",
+        "url": "https://gist.github.com/hsllin/883babbb622fb0d5095fd90a3ce4b862",
+        "createdAt": "2023-07-10T08:53:59Z",
+        "updatedAt": "2023-07-10T08:53:59Z",
+        "filename": "考勤调度的使用场景.md",
+        "isPublic": true
+      }
+    ]
+  }
+}

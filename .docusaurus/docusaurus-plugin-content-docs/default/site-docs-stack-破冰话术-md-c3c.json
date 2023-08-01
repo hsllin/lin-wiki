@@ -1,0 +1,14 @@
+{
+  "unversionedId": "stack/破冰话术",
+  "id": "stack/破冰话术",
+  "title": "破冰话术",
+  "description": "喵~",
+  "source": "@site/docs/stack/破冰话术.md",
+  "sourceDirName": "stack",
+  "slug": "/stack/破冰话术",
+  "permalink": "/docs/stack/破冰话术",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

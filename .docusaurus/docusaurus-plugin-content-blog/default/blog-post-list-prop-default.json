@@ -2,8 +2,28 @@
   "title": "最近更新",
   "items": [
     {
+      "title": "套路",
+      "permalink": "/套路"
+    },
+    {
+      "title": "对话聊天",
+      "permalink": "/对话聊天"
+    },
+    {
+      "title": "情景模拟",
+      "permalink": "/情景模拟"
+    },
+    {
+      "title": "暧昧",
+      "permalink": "/暧昧"
+    },
+    {
+      "title": "破冰话术",
+      "permalink": "/破冰话术"
+    },
+    {
       "title": "Docusaurus-Theme-Zen",
-      "permalink": "/docusaurus-theme-zen/first-blog"
+      "permalink": "/first-blog"
     }
   ]
 }

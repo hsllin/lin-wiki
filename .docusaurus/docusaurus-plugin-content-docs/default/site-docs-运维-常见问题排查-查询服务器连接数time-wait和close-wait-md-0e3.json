@@ -1,0 +1,14 @@
+{
+  "unversionedId": "运维/常见问题排查/查询服务器连接数TIME_WAIT和CLOSE_WAIT",
+  "id": "运维/常见问题排查/查询服务器连接数TIME_WAIT和CLOSE_WAIT",
+  "title": "查询服务器连接数TIME_WAIT和CLOSE_WAIT",
+  "description": "或",
+  "source": "@site/docs/运维/常见问题排查/查询服务器连接数TIME_WAIT和CLOSE_WAIT.md",
+  "sourceDirName": "运维/常见问题排查",
+  "slug": "/运维/常见问题排查/查询服务器连接数TIME_WAIT和CLOSE_WAIT",
+  "permalink": "/docs/运维/常见问题排查/查询服务器连接数TIME_WAIT和CLOSE_WAIT",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

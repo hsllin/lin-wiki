@@ -1,0 +1,25 @@
+{
+  "unversionedId": "读书笔记/金钱博弈",
+  "id": "读书笔记/金钱博弈",
+  "title": "金钱博弈",
+  "description": "---",
+  "source": "@site/docs/读书笔记/金钱博弈.md",
+  "sourceDirName": "读书笔记",
+  "slug": "/读书笔记/金钱博弈",
+  "permalink": "/docs/读书笔记/金钱博弈",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "gists": [
+      {
+        "id": "7170c2edf5c7bca4029336aa08a57477",
+        "url": "https://gist.github.com/hsllin/7170c2edf5c7bca4029336aa08a57477",
+        "createdAt": "2023-07-10T08:52:43Z",
+        "updatedAt": "2023-07-10T08:52:43Z",
+        "filename": "金钱博弈.md",
+        "isPublic": true
+      }
+    ]
+  }
+}

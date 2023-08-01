@@ -1,0 +1,16 @@
+{
+  "unversionedId": "读书笔记/未命名看板",
+  "id": "读书笔记/未命名看板",
+  "title": "未命名看板",
+  "description": "周记复盘",
+  "source": "@site/docs/读书笔记/未命名看板.md",
+  "sourceDirName": "读书笔记",
+  "slug": "/读书笔记/未命名看板",
+  "permalink": "/docs/读书笔记/未命名看板",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "kanban-plugin": "basic"
+  }
+}

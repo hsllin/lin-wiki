@@ -1,0 +1,14 @@
+{
+  "unversionedId": "java进阶/消息队列/知识点掌握：",
+  "id": "java进阶/消息队列/知识点掌握：",
+  "title": "知识点掌握：",
+  "description": "1.  支持数据不丢失的ack机制",
+  "source": "@site/docs/java进阶/消息队列/知识点掌握：.md",
+  "sourceDirName": "java进阶/消息队列",
+  "slug": "/java进阶/消息队列/知识点掌握：",
+  "permalink": "/docs/java进阶/消息队列/知识点掌握：",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

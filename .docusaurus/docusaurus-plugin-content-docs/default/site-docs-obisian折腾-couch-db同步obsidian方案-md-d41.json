@@ -1,0 +1,14 @@
+{
+  "unversionedId": "obisian折腾/couchDb同步obsidian方案",
+  "id": "obisian折腾/couchDb同步obsidian方案",
+  "title": "couchDb同步obsidian方案",
+  "description": "Obsidian 好用，但是同步太烂了。第三方插件 obsidian-livesync 提供了 CouchDB 同步的功能，这肯定搞一下",
+  "source": "@site/docs/obisian折腾/couchDb同步obsidian方案.md",
+  "sourceDirName": "obisian折腾",
+  "slug": "/obisian折腾/couchDb同步obsidian方案",
+  "permalink": "/docs/obisian折腾/couchDb同步obsidian方案",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

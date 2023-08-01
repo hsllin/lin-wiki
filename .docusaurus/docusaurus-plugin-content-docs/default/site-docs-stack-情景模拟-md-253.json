@@ -1,0 +1,14 @@
+{
+  "unversionedId": "stack/情景模拟",
+  "id": "stack/情景模拟",
+  "title": "情景模拟",
+  "description": "上班迟到：",
+  "source": "@site/docs/stack/情景模拟.md",
+  "sourceDirName": "stack",
+  "slug": "/stack/情景模拟",
+  "permalink": "/docs/stack/情景模拟",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

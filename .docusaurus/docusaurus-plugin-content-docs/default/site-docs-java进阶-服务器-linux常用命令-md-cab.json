@@ -1,0 +1,14 @@
+{
+  "unversionedId": "java进阶/服务器/linux常用命令",
+  "id": "java进阶/服务器/linux常用命令",
+  "title": "linux常用命令",
+  "description": "开关机",
+  "source": "@site/docs/java进阶/服务器/linux常用命令.md",
+  "sourceDirName": "java进阶/服务器",
+  "slug": "/java进阶/服务器/linux常用命令",
+  "permalink": "/docs/java进阶/服务器/linux常用命令",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

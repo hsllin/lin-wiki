@@ -1,0 +1,14 @@
+{
+  "unversionedId": "项目/报修/耗材统计相关sql",
+  "id": "项目/报修/耗材统计相关sql",
+  "title": "耗材统计相关sql",
+  "description": "耗材统计和前端计算sql",
+  "source": "@site/docs/项目/报修/耗材统计相关sql.md",
+  "sourceDirName": "项目/报修",
+  "slug": "/项目/报修/耗材统计相关sql",
+  "permalink": "/docs/项目/报修/耗材统计相关sql",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "java进阶/spring/常见面试题",
+  "id": "java进阶/spring/常见面试题",
+  "title": "常见面试题",
+  "description": "1.谈谈Spring IOC的理解，原理与实现?",
+  "source": "@site/docs/java进阶/spring/常见面试题.md",
+  "sourceDirName": "java进阶/spring",
+  "slug": "/java进阶/spring/常见面试题",
+  "permalink": "/docs/java进阶/spring/常见面试题",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

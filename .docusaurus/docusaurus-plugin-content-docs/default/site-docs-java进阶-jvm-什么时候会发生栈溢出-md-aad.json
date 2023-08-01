@@ -1,0 +1,14 @@
+{
+  "unversionedId": "java进阶/jvm/什么时候会发生栈溢出",
+  "id": "java进阶/jvm/什么时候会发生栈溢出",
+  "title": "什么时候会发生栈溢出",
+  "description": "内存泄漏和内存溢出",
+  "source": "@site/docs/java进阶/jvm/什么时候会发生栈溢出.md",
+  "sourceDirName": "java进阶/jvm",
+  "slug": "/java进阶/jvm/什么时候会发生栈溢出",
+  "permalink": "/docs/java进阶/jvm/什么时候会发生栈溢出",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

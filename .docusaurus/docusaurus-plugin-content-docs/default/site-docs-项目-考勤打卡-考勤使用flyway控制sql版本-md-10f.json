@@ -1,0 +1,14 @@
+{
+  "unversionedId": "项目/考勤打卡/考勤使用flyway控制sql版本",
+  "id": "项目/考勤打卡/考勤使用flyway控制sql版本",
+  "title": "考勤使用flyway控制sql版本",
+  "description": "1. 添加依赖",
+  "source": "@site/docs/项目/考勤打卡/考勤使用flyway控制sql版本.md",
+  "sourceDirName": "项目/考勤打卡",
+  "slug": "/项目/考勤打卡/考勤使用flyway控制sql版本",
+  "permalink": "/docs/项目/考勤打卡/考勤使用flyway控制sql版本",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

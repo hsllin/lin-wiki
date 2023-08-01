@@ -1,0 +1,14 @@
+{
+  "unversionedId": "中间件/mongodb/mongodb操作语法",
+  "id": "中间件/mongodb/mongodb操作语法",
+  "title": "mongodb操作语法",
+  "description": "创建索引",
+  "source": "@site/docs/中间件/mongodb/mongodb操作语法.md",
+  "sourceDirName": "中间件/mongodb",
+  "slug": "/中间件/mongodb/mongodb操作语法",
+  "permalink": "/docs/中间件/mongodb/mongodb操作语法",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
